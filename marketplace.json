@@ -1,1 +1,8 @@
-{}
+{
+  [{
+    module_name: 'Hello World',
+    module_repo: '/jakerb/hello-world-github',
+    module_icon: 'http://placehold.it/300x300&text=Hello+World',
+    module_description: 'A dummy module to test the marketplace tool in Cockpit.'
+  }]
+}
