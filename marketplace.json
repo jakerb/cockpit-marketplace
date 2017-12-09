@@ -2,6 +2,6 @@
 	"module_name": "Marketplace Module",
 	"module_tags": ["market", "place", "install", "modules"],
 	"module_repo": "jakerb/cockpit-module-marketplace",
-	"module_icon": "http://placehold.it/300x150&text=Hello+World",
+	"module_icon": "https://i2.wp.com/www.dwolla.com/updates/wp-content/uploads/2017/03/marketplace-payouts-blog.png?fit=300%2C150&ssl=1",
 	"module_description": "A Marketplace module for Cockpit CMS."
 }]
