@@ -1,7 +1,7 @@
 [{
-	"module_name": "Hello World",
-	"module_tags": ["hello", "world", "test"],
-	"module_repo": "jakerb/cockpit-marketplace",
+	"module_name": "Marketplace Module",
+	"module_tags": ["market", "place", "install", "modules"],
+	"module_repo": "jakerb/cockpit-module-marketplace",
 	"module_icon": "http://placehold.it/300x150&text=Hello+World",
-	"module_description": "A dummy module to test the marketplace tool in Cockpit."
+	"module_description": "A Marketplace module for Cockpit CMS."
 }]
